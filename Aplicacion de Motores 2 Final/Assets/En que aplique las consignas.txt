@@ -1,0 +1,5 @@
+-Scriptables: guardar presets de camara, audiosource y lights
+
+-GUI en ventana scene: la regla y la stickyNote
+
+-editor windows: ruler manager, StickyNote Manager y TO DO LIST 
